@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800px;
+}
+
+ nav > ul{
+    display: flex;
+    align-items: ;
+  
+}
+ nav li{
+     list-style: none;
+     margin-right: 50px;
+ }
+ nav a{
+     text-decoration: none;
+     color:#474747;
+ }
+ .btn-primary{
+     border-radius: 5px;
+     background-color: #FD6E0A;
+     border: 0px;
+ }
